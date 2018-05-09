@@ -4,6 +4,7 @@ This project sends a text message to notify me when the mail has arrived
 
 ## components
 Particle Photon with a reed switch (available through Adafruit)
+
 Some machine to run python program
   - need to pip install twilio and paho-mqtt
 
